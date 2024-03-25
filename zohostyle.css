@@ -259,7 +259,7 @@ h4 {
   width: 900px;
   height: 350px;
   position: relative;
-  border-radius: 120px; /* Reduced border-radius for a more modern look */
+  border-radius: 120px; 
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
   overflow: hidden;
   margin-left: 160px;
